@@ -30,9 +30,8 @@
 
 ![](settings-general-2.png)
 
-等待几秒钟，这里会列出所有远程仓库的地址。其中，国内的镜像源有五个，分别是（访问时间：2021年06月04日）：
+等待几秒钟，这里会列出所有远程仓库的地址。在2021年06月04日访问时，国内的镜像源共有六个，分别是：
 
-- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [哈尔滨工业大学开源镜像站](http://mirrors.hit.edu.cn/)
 - [南京大学开源镜像站](https://mirrors.nju.edu.cn/)
 - [上海交通大学软件源镜像服务](https://mirrors.sjtug.sjtu.edu.cn/)
@@ -40,7 +39,7 @@
 - [重庆大学开源软件镜像站](https://mirrors.cqu.edu.cn/)
 - [东莞理工学院镜像站](https://mirrors.dgut.edu.cn/)
 
-这里我选择清华的镜像源，点击 `Finish` 按钮完成设置。
+这里我选择南京大学的镜像源，点击 `Finish` 按钮完成设置。
 
 ![](settings-general-3.png)
 
@@ -53,6 +52,10 @@
 在 `Packages` 界面，可以进行包管理的相关操作。如果一个包已安装，那么 `Installed on` 和 `Installed by` 两列会分别显示包安装的时间和用户。想要安装或删除一个包，可以先在搜索框中搜索包名，然后点击 `+` 安装或 `-` 删除。
 
 ![](packages.png)
+
+例如，我们搜索 “cjk” 并安装五个以 “cjk” 开头的包，选中要安装的包 （ `ctrl` 多选，`shift` 连选，就像选择文件一样），点击 `+` 安装。在弹出的对话框中，会显示安装进度。等到右下角的按钮从 `Cancel` 变成 `Close` 时，说明安装过程完成。
+
+![](packages-install.png)
 
 ## 更新包
 
