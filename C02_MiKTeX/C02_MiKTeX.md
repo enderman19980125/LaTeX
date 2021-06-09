@@ -30,11 +30,13 @@
 
 ![](settings-general-2.png)
 
-等待几秒钟，这里会列出所有远程仓库的地址。在2021年06月04日访问时，国内的镜像源共有六个，分别是：
+等待几秒钟，这里会列出所有远程仓库的地址。在2021年06月09日访问时，国内的镜像源共有8个，分别是：
 
+- [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
 - [哈尔滨工业大学开源镜像站](http://mirrors.hit.edu.cn/)
 - [南京大学开源镜像站](https://mirrors.nju.edu.cn/)
 - [上海交通大学软件源镜像服务](https://mirrors.sjtug.sjtu.edu.cn/)
+- [北京交通大学自由与开源软件镜像站](https://mirror.bjtu.edu.cn/)
 - [北京外国语大学开源软件镜像站](https://mirrors.bfsu.edu.cn/)
 - [重庆大学开源软件镜像站](https://mirrors.cqu.edu.cn/)
 - [东莞理工学院镜像站](https://mirrors.dgut.edu.cn/)
